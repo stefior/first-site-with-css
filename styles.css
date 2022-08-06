@@ -173,3 +173,13 @@ button {
 .call-to-action > button {
   border-style: solid;
 }
+
+.footer {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #F9FAF8;
+  height: 80px;
+  width: 100%;
+}
